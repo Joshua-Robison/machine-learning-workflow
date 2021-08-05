@@ -7,6 +7,7 @@ This repository contains jupyter notebooks that walk through the machine learnin
 4. [Model Selection](https://github.com/Joshua-Robison/MLWorkflow/blob/main/notebooks/summary.ipynb)
 
 ## Models
+These jupyter notebooks walk through creating and saving machine learning models.
 1. [Logistic Regressor](https://github.com/Joshua-Robison/MLWorkflow/blob/main/notebooks/logistic_regression.ipynb)
 2. [Support Vector Machine](https://github.com/Joshua-Robison/MLWorkflow/blob/main/notebooks/support_vector_machine.ipynb)
 3. [Random Forest](https://github.com/Joshua-Robison/MLWorkflow/blob/main/notebooks/random_forest.ipynb)
